@@ -1,2 +1,4 @@
+include ':common'
+include ':performance'
 rootProject.name='AndroidArchitecture'
 include ':app'

@@ -1,0 +1,359 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:2:1-81:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/5d90826d7395c7fb06ba438231ee7daf/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/a86a3202b2fa3777cc0ca66fd9124f88/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/7e6443bdc00d4058e0510a9dba3a5484/databinding-adapters-3.6.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/1d395beef02e30e184cda686d19b93b5/databinding-runtime-3.6.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/b17aeb7250fa9f999721fd9251bba1f7/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/5379bd65565f5c6dc69cf79e93d86999/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.amitshekhar.android:debug-db:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/53db3dd5f9ef154dee71868efdc56ba7/jetified-debug-db-1.0.6/AndroidManifest.xml:2:1-19:12
+MERGED from [com.amitshekhar.android:debug-db-encrypt:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/44c1331e07fab9335e41cea8a495ff51/jetified-debug-db-encrypt-1.0.6/AndroidManifest.xml:2:1-19:12
+MERGED from [com.amitshekhar.android:debug-db-base:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e4c1d9b738d8f00dbf9f8a653aae0247/jetified-debug-db-base-1.0.6/AndroidManifest.xml:20:1-32:12
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/050d8bdd58acc7eb5fe2269cf41bba89/jetified-Android-SpinKit-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/5587864dcaa8286baad58590232dc19e/room-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/a057556ddd980b34d1d702c836bfeea9/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/f2eb0e20c8ae2ec43cfdbd0bedeb49b6/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/62ec0dbae42c542d341761feb9757651/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/f53988b60a464b8e4d01de5b36682540/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/53fcb53fe6ba3da7738d09ac562c2ee5/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/c9b470aeb7324ef5244c1bb3de950a11/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/91c1da751b341a814b042d4dbbf9b30f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/180b43a44fcd36db70c88dd23520bd74/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/c35c96b7f67f6607328f84172c0ea687/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3b36fc3bdaf1de006bcf30216bdc900d/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/c3904b185dbb046ebc55023d904d8ea4/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/751e9ee42d3c5c647d8574e654c0a084/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/10ab131f50426031ca2e1843aeeba415/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3d8372a6fac62f8170592a9d2453a658/core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/228164ab51f6a847f0b02bad991be074/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/b303cd4f2074b1afa14e097756a97474/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/f0ca2e17facfd6cead62c28e4806dff5/jetified-viewbinding-3.6.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/9d510e546b3af0a017e35e80f0f29028/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/efa97fc657b62952e2d7d5b04d8ab130/sqlite-framework-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/cc63f0c5a119fdcde323d233c16ab3d9/sqlite-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/2bae3af4d167258873282c236af81b5c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/fbaba085bc9e2f6271e67d91acbd9f4a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3e2a112d69e879c36d4f3447976206e7/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3a60e222b4cdf8a98b2af6586f6ffed6/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/656f5907624dce067aa8384b712f7fd3/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3c9fdb8de6f696a6b3c4d48425d3bb19/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/329ba2f158e89e57ca2789df62092926/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/795751276f72c8e0df01245c4a96eab7/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.9] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e50a035d73564e1c404ae3bb0f32309b/jetified-android-database-sqlcipher-3.5.9/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:40:5-79:19
+MERGED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:40:5-79:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/a86a3202b2fa3777cc0ca66fd9124f88/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/a86a3202b2fa3777cc0ca66fd9124f88/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:9:5-34:19
+MERGED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:9:5-34:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/53db3dd5f9ef154dee71868efdc56ba7/jetified-debug-db-1.0.6/AndroidManifest.xml:11:5-17:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/53db3dd5f9ef154dee71868efdc56ba7/jetified-debug-db-1.0.6/AndroidManifest.xml:11:5-17:19
+MERGED from [com.amitshekhar.android:debug-db-encrypt:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/44c1331e07fab9335e41cea8a495ff51/jetified-debug-db-encrypt-1.0.6/AndroidManifest.xml:11:5-17:19
+MERGED from [com.amitshekhar.android:debug-db-encrypt:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/44c1331e07fab9335e41cea8a495ff51/jetified-debug-db-encrypt-1.0.6/AndroidManifest.xml:11:5-17:19
+MERGED from [androidx.core:core:1.0.1] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3d8372a6fac62f8170592a9d2453a658/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3d8372a6fac62f8170592a9d2453a658/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/228164ab51f6a847f0b02bad991be074/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/228164ab51f6a847f0b02bad991be074/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3d8372a6fac62f8170592a9d2453a658/core-1.0.1/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:6:9-40
+activity#com.lostoy.android.architecture.MainActivity
+ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+MERGED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:8:5-10:41
+MERGED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/5d90826d7395c7fb06ba438231ee7daf/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/5d90826d7395c7fb06ba438231ee7daf/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/a86a3202b2fa3777cc0ca66fd9124f88/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/a86a3202b2fa3777cc0ca66fd9124f88/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/7e6443bdc00d4058e0510a9dba3a5484/databinding-adapters-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/7e6443bdc00d4058e0510a9dba3a5484/databinding-adapters-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/1d395beef02e30e184cda686d19b93b5/databinding-runtime-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/1d395beef02e30e184cda686d19b93b5/databinding-runtime-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:7:5-44
+MERGED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:7:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/b17aeb7250fa9f999721fd9251bba1f7/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/b17aeb7250fa9f999721fd9251bba1f7/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/5379bd65565f5c6dc69cf79e93d86999/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/5379bd65565f5c6dc69cf79e93d86999/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.amitshekhar.android:debug-db:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/53db3dd5f9ef154dee71868efdc56ba7/jetified-debug-db-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.amitshekhar.android:debug-db:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/53db3dd5f9ef154dee71868efdc56ba7/jetified-debug-db-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.amitshekhar.android:debug-db-encrypt:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/44c1331e07fab9335e41cea8a495ff51/jetified-debug-db-encrypt-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.amitshekhar.android:debug-db-encrypt:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/44c1331e07fab9335e41cea8a495ff51/jetified-debug-db-encrypt-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.amitshekhar.android:debug-db-base:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e4c1d9b738d8f00dbf9f8a653aae0247/jetified-debug-db-base-1.0.6/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:debug-db-base:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e4c1d9b738d8f00dbf9f8a653aae0247/jetified-debug-db-base-1.0.6/AndroidManifest.xml:25:5-27:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/050d8bdd58acc7eb5fe2269cf41bba89/jetified-Android-SpinKit-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/050d8bdd58acc7eb5fe2269cf41bba89/jetified-Android-SpinKit-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/5587864dcaa8286baad58590232dc19e/room-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/5587864dcaa8286baad58590232dc19e/room-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/a057556ddd980b34d1d702c836bfeea9/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/a057556ddd980b34d1d702c836bfeea9/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/f2eb0e20c8ae2ec43cfdbd0bedeb49b6/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/f2eb0e20c8ae2ec43cfdbd0bedeb49b6/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/62ec0dbae42c542d341761feb9757651/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/62ec0dbae42c542d341761feb9757651/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/f53988b60a464b8e4d01de5b36682540/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/f53988b60a464b8e4d01de5b36682540/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/53fcb53fe6ba3da7738d09ac562c2ee5/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/53fcb53fe6ba3da7738d09ac562c2ee5/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/c9b470aeb7324ef5244c1bb3de950a11/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/c9b470aeb7324ef5244c1bb3de950a11/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/91c1da751b341a814b042d4dbbf9b30f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/91c1da751b341a814b042d4dbbf9b30f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/180b43a44fcd36db70c88dd23520bd74/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/180b43a44fcd36db70c88dd23520bd74/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/c35c96b7f67f6607328f84172c0ea687/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/c35c96b7f67f6607328f84172c0ea687/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3b36fc3bdaf1de006bcf30216bdc900d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3b36fc3bdaf1de006bcf30216bdc900d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/c3904b185dbb046ebc55023d904d8ea4/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/c3904b185dbb046ebc55023d904d8ea4/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/751e9ee42d3c5c647d8574e654c0a084/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/751e9ee42d3c5c647d8574e654c0a084/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/10ab131f50426031ca2e1843aeeba415/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/10ab131f50426031ca2e1843aeeba415/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3d8372a6fac62f8170592a9d2453a658/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3d8372a6fac62f8170592a9d2453a658/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/228164ab51f6a847f0b02bad991be074/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/228164ab51f6a847f0b02bad991be074/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/b303cd4f2074b1afa14e097756a97474/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/b303cd4f2074b1afa14e097756a97474/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/f0ca2e17facfd6cead62c28e4806dff5/jetified-viewbinding-3.6.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/f0ca2e17facfd6cead62c28e4806dff5/jetified-viewbinding-3.6.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/9d510e546b3af0a017e35e80f0f29028/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/9d510e546b3af0a017e35e80f0f29028/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/efa97fc657b62952e2d7d5b04d8ab130/sqlite-framework-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/efa97fc657b62952e2d7d5b04d8ab130/sqlite-framework-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/cc63f0c5a119fdcde323d233c16ab3d9/sqlite-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/cc63f0c5a119fdcde323d233c16ab3d9/sqlite-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/2bae3af4d167258873282c236af81b5c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/2bae3af4d167258873282c236af81b5c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/fbaba085bc9e2f6271e67d91acbd9f4a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/fbaba085bc9e2f6271e67d91acbd9f4a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3e2a112d69e879c36d4f3447976206e7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3e2a112d69e879c36d4f3447976206e7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3a60e222b4cdf8a98b2af6586f6ffed6/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3a60e222b4cdf8a98b2af6586f6ffed6/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/656f5907624dce067aa8384b712f7fd3/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/656f5907624dce067aa8384b712f7fd3/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3c9fdb8de6f696a6b3c4d48425d3bb19/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/3c9fdb8de6f696a6b3c4d48425d3bb19/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/329ba2f158e89e57ca2789df62092926/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/329ba2f158e89e57ca2789df62092926/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/795751276f72c8e0df01245c4a96eab7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/795751276f72c8e0df01245c4a96eab7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.9] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e50a035d73564e1c404ae3bb0f32309b/jetified-android-database-sqlcipher-3.5.9/AndroidManifest.xml:7:5-9:41
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.9] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e50a035d73564e1c404ae3bb0f32309b/jetified-android-database-sqlcipher-3.5.9/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lifanlong/Projects/private/AndroidArchitecture/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:13:22-75
+uses-permission#android.permission.INTERNET
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:16:5-67
+MERGED from [com.amitshekhar.android:debug-db-base:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e4c1d9b738d8f00dbf9f8a653aae0247/jetified-debug-db-base-1.0.6/AndroidManifest.xml:29:5-67
+MERGED from [com.amitshekhar.android:debug-db-base:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e4c1d9b738d8f00dbf9f8a653aae0247/jetified-debug-db-base-1.0.6/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:20:22-77
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:23:5-76
+MERGED from [com.amitshekhar.android:debug-db-base:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e4c1d9b738d8f00dbf9f8a653aae0247/jetified-debug-db-base-1.0.6/AndroidManifest.xml:30:5-76
+MERGED from [com.amitshekhar.android:debug-db-base:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e4c1d9b738d8f00dbf9f8a653aae0247/jetified-debug-db-base-1.0.6/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:23:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:25:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:28:5-66
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:28:22-63
+uses-permission#android.permission.CAMERA
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:29:5-65
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:29:22-62
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:31:5-70
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:31:19-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:34:5-77
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:34:22-74
+activity#com.didichuxing.doraemonkit.kit.core.UniversalActivity
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:41:9-45:82
+	android:screenOrientation
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:43:13-49
+	android:windowSoftInputMode
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:45:13-79
+	android:theme
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:42:13-82
+activity#com.didichuxing.doraemonkit.kit.core.TranslucentActivity
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:46:9-49:72
+	android:windowSoftInputMode
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:49:13-69
+	android:theme
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:47:13-84
+activity#com.didichuxing.doraemonkit.zxing.activity.CaptureActivity
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:50:9-53:72
+	android:screenOrientation
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:52:13-49
+	android:windowSoftInputMode
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:53:13-69
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:51:13-86
+provider#com.didichuxing.doraemonkit.DebugFileProvider
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:55:9-63:20
+	android:grantUriPermissions
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:59:13-47
+	android:authorities
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:57:13-69
+	android:exported
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:56:13-73
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:60:13-62:70
+	android:resource
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:62:17-67
+	android:name
+		ADDED from [com.didichuxing.doraemonkit:doraemonkit:3.1.5] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/AndroidManifest.xml:61:17-67
+activity#com.blankj.utilcode.util.UtilsTransActivity
+ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:10:9-15:75
+	android:multiprocess
+		ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:13:13-40
+	android:windowSoftInputMode
+		ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:15:13-72
+	android:configChanges
+		ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:12:13-74
+	android:theme
+		ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:14:13-55
+	android:name
+		ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:11:13-71
+provider#com.blankj.utilcode.util.UtilsFileProvider
+ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:17:9-25:20
+	android:grantUriPermissions
+		ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:21:13-47
+	android:authorities
+		ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:19:13-69
+	android:exported
+		ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:18:13-70
+service#com.blankj.utilcode.util.MessengerUtils$ServerService
+ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:27:9-33:19
+	android:exported
+		ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:28:13-81
+intent-filter#action:name:${applicationId}.messenger
+ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:30:13-32:29
+intent-filter#action:name:com.lostoy.android.architecture.messenger
+ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:30:13-32:29
+action#${applicationId}.messenger
+ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:31:25-66
+action#com.lostoy.android.architecture.messenger
+ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from [com.blankj:utilcodex:1.28.4] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/e271faaad47ac0ae73094e1148c55ca7/jetified-utilcodex-1.28.4/AndroidManifest.xml:31:25-66
+provider#com.amitshekhar.debug.DebugDBInitProvider
+ADDED from [com.amitshekhar.android:debug-db:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/53db3dd5f9ef154dee71868efdc56ba7/jetified-debug-db-1.0.6/AndroidManifest.xml:12:9-16:40
+	android:enabled
+		ADDED from [com.amitshekhar.android:debug-db:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/53db3dd5f9ef154dee71868efdc56ba7/jetified-debug-db-1.0.6/AndroidManifest.xml:15:13-35
+	android:authorities
+		ADDED from [com.amitshekhar.android:debug-db:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/53db3dd5f9ef154dee71868efdc56ba7/jetified-debug-db-1.0.6/AndroidManifest.xml:14:13-71
+	android:exported
+		ADDED from [com.amitshekhar.android:debug-db:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/53db3dd5f9ef154dee71868efdc56ba7/jetified-debug-db-1.0.6/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/53db3dd5f9ef154dee71868efdc56ba7/jetified-debug-db-1.0.6/AndroidManifest.xml:13:13-69
+provider#com.amitshekhar.debug.encrypt.DebugDBEncryptInitProvider
+ADDED from [com.amitshekhar.android:debug-db-encrypt:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/44c1331e07fab9335e41cea8a495ff51/jetified-debug-db-encrypt-1.0.6/AndroidManifest.xml:12:9-16:40
+	android:enabled
+		ADDED from [com.amitshekhar.android:debug-db-encrypt:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/44c1331e07fab9335e41cea8a495ff51/jetified-debug-db-encrypt-1.0.6/AndroidManifest.xml:15:13-35
+	android:authorities
+		ADDED from [com.amitshekhar.android:debug-db-encrypt:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/44c1331e07fab9335e41cea8a495ff51/jetified-debug-db-encrypt-1.0.6/AndroidManifest.xml:14:13-78
+	android:exported
+		ADDED from [com.amitshekhar.android:debug-db-encrypt:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/44c1331e07fab9335e41cea8a495ff51/jetified-debug-db-encrypt-1.0.6/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db-encrypt:1.0.6] /Users/lifanlong/.gradle/caches/transforms-2/files-2.1/44c1331e07fab9335e41cea8a495ff51/jetified-debug-db-encrypt-1.0.6/AndroidManifest.xml:13:13-84
