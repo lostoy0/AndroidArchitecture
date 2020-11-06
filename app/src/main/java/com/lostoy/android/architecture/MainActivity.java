@@ -10,9 +10,14 @@ import android.os.Process;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.Choreographer;
+import android.view.FrameMetrics;
 import android.view.View;
+import android.view.ViewTreeObserver;
+import android.view.Window;
+import android.view.Window.OnFrameMetricsAvailableListener;
 import android.widget.TextView;
 
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.lostoy.android.architecture.utils.Logger;
@@ -30,10 +35,27 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView contentTextView;
 
+    StringBuilder builder = new StringBuilder();
+
+    @RequiresApi(api = Build.VERSION_CODES.N)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        getWindow().getDecorView().getViewTreeObserver().addOnScrollChangedListener(new ViewTreeObserver.OnScrollChangedListener() {
+            @Override
+            public void onScrollChanged() {
+                Logger.d(">>>>>>>> onScrollChanged");
+            }
+        });
+
+        getWindow().addOnFrameMetricsAvailableListener(new OnFrameMetricsAvailableListener() {
+            @Override
+            public void onFrameMetricsAvailable(Window window, FrameMetrics frameMetrics, int dropCountSinceLastInvocation) {
+
+            }
+        }, handle);
 
         activityManager = (ActivityManager) getSystemService(ACTIVITY_SERVICE);
 
@@ -72,7 +94,8 @@ public class MainActivity extends AppCompatActivity {
 
         Logger.d("didi dokit getMemory: " + getMemoryData());
 
-        StringBuilder builder = new StringBuilder();
+        builder.append("--------------------");
+
         builder.append("activity manager memory infos totalPss：" + memoryInfos[0].getTotalPss() / 1024f).append("\n")
                 .append("runtime max memory：" + maxMemory / (1024*1024f)).append("\n")
                 .append("runtime total memory：" + totalMemory / (1024*1024f)).append("\n")
