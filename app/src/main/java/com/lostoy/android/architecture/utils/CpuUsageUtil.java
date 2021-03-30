@@ -119,6 +119,7 @@ public class CpuUsageUtil {
         } catch (IOException ex) {
             ex.printStackTrace();
         }
+        assert cpuInfos != null;
         long totalCpu = Long.parseLong(cpuInfos[2])
                 + Long.parseLong(cpuInfos[3]) + Long.parseLong(cpuInfos[4])
                 + Long.parseLong(cpuInfos[6]) + Long.parseLong(cpuInfos[5])

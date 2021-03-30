@@ -1,35 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp"
     tools:context=".MainActivity">
 
-    <Button
-        android:id="@+id/clickMe"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="点我"
-        tools:ignore="MissingConstraints" />
+        android:orientation="vertical">
 
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginTop="16dp"
-        android:layout_below="@+id/clickMe">
-
-        <LinearLayout
+        <Button
+            android:id="@+id/clickMe"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical" >
-            <TextView
-                android:id="@+id/contentTextView"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/clickMe"
-                android:text="Hello World!" />
-        </LinearLayout>
-    </ScrollView>
+            android:text="点我"
+            tools:ignore="MissingConstraints" />
 
-</RelativeLayout>
+        <Button
+            android:id="@+id/gotoSecondPage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="goto second activity" />
+
+        <Button
+            android:id="@+id/gotoFragmentPage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="goto Fragment activity" />
+
+        <TextView
+            android:id="@+id/contentTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dk_dp_16"
+            android:text="Hello World!" />
+    </LinearLayout>
+</ScrollView>

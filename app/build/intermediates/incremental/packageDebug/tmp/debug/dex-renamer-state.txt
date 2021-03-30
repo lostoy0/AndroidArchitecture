@@ -1,4 +1,0 @@
-#Thu Jul 16 22:04:22 CST 2020
-base.0=/Users/lifanlong/Projects/private/AndroidArchitecture/app/build/intermediates/dex/debug/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

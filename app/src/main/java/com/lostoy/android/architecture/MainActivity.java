@@ -1,14 +1,12 @@
 package com.lostoy.android.architecture;
 
 import android.app.ActivityManager;
-import android.content.Context;
+import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Debug;
 import android.os.Handler;
 import android.os.Process;
-import android.text.TextUtils;
-import android.util.Log;
 import android.view.Choreographer;
 import android.view.FrameMetrics;
 import android.view.View;
@@ -20,11 +18,12 @@ import android.widget.TextView;
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.lostoy.android.architecture.utils.CpuUsageUtil;
 import com.lostoy.android.architecture.utils.Logger;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final int MAX_RUN_SECONDS = 3;
+    private static final int MAX_RUN_SECONDS = 1;
     private int frameCount = 0;
     private long lastFrameNanos;
     private int seconds = 0;
@@ -76,10 +75,24 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        findViewById(R.id.gotoSecondPage).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, SecondActivity.class));
+            }
+        });
+
+        findViewById(R.id.gotoFragmentPage).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, FragmentContainerActivity.class));
+            }
+        });
+
         startTrack();
     }
 
-    private void printMemory() {
+    private void printProfile() {
         int pid = android.os.Process.myPid();
         Debug.MemoryInfo[] memoryInfos = activityManager.getProcessMemoryInfo(new int[]{pid});
 
@@ -88,19 +101,25 @@ public class MainActivity extends AppCompatActivity {
         long maxMemory = Runtime.getRuntime().maxMemory();
 
         Logger.d("activity manager memory infos totalPss：" + memoryInfos[0].getTotalPss() / 1024f);
-        Logger.d("runtime max memory：" + maxMemory / (1024*1024f));
-        Logger.d("runtime total memory：" + totalMemory / (1024*1024f));
-        Logger.d("runtime free memory：" + freeMemory / (1024*1024f));
+        Logger.d("runtime max memory：" + maxMemory / (1024 * 1024f));
+        Logger.d("runtime total memory：" + totalMemory / (1024 * 1024f));
+        Logger.d("runtime free memory：" + freeMemory / (1024 * 1024f));
 
         Logger.d("didi dokit getMemory: " + getMemoryData());
 
-        builder.append("--------------------");
+        builder.append("--------------------\n");
 
-        builder.append("activity manager memory infos totalPss：" + memoryInfos[0].getTotalPss() / 1024f).append("\n")
-                .append("runtime max memory：" + maxMemory / (1024*1024f)).append("\n")
-                .append("runtime total memory：" + totalMemory / (1024*1024f)).append("\n")
-                .append("runtime free memory：" + freeMemory / (1024*1024f)).append("\n")
-                .append("didi dokit getMemory: " + getMemoryData()).append("\n");
+        builder.append("activity manager memory infos totalPss：").append(memoryInfos[0].getTotalPss() / 1024f).append("\n")
+                .append("runtime max memory：").append(maxMemory / (1024 * 1024f)).append("\n")
+                .append("runtime total memory：").append(totalMemory / (1024 * 1024f)).append("\n")
+                .append("runtime free memory：").append(freeMemory / (1024 * 1024f)).append("\n")
+                .append("didi dokit getMemory: ").append(getMemoryData()).append("\n\n");
+
+        builder.append("--------------------\n");
+
+        builder.append("cpu fre rate: ").append(CpuUsageUtil.getProcessCpuFreqRate()).append("\n")
+                .append("cpu time: ").append(CpuUsageUtil.getProcessCpuTime(Process.myPid())).append("\n\n");
+
         contentTextView.setText(builder.toString());
     }
 
@@ -123,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
                 Logger.d("------------");
                 Logger.d("frameCount = " + frameCount + ", frameCostMs = " + frameCostMs);
                 Logger.d("------------");
-                printMemory();
+                printProfile();
                 lastFrameNanos = frameTimeNanos;
             }
             if (frameCount < MAX_RUN_SECONDS) {

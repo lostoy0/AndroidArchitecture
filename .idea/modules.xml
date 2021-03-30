@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidArchitecture.iml" filepath="$PROJECT_DIR$/AndroidArchitecture.iml" group="AndroidArchitecture" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="AndroidArchitecture/app" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/common.iml" group="AndroidArchitecture/common" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/performance/performance.iml" filepath="$PROJECT_DIR$/.idea/modules/performance/performance.iml" group="AndroidArchitecture/performance" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidArchitecture.iml" filepath="$PROJECT_DIR$/AndroidArchitecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidArchitecture.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidArchitecture.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/AndroidArchitecture.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/AndroidArchitecture.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/performance/AndroidArchitecture.performance.iml" filepath="$PROJECT_DIR$/.idea/modules/performance/AndroidArchitecture.performance.iml" />
     </modules>
   </component>
 </project>

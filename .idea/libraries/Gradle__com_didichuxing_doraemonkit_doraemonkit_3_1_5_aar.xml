@@ -1,8 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.didichuxing.doraemonkit:doraemonkit:3.1.5@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d8e7b016b108dd466e584c009e6e1d8/jetified-doraemonkit-3.1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fe2a9b870eb383a56ee31202f83675a/jetified-doraemonkit-3.1.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fe2a9b870eb383a56ee31202f83675a/jetified-doraemonkit-3.1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fe2a9b870eb383a56ee31202f83675a/jetified-doraemonkit-3.1.5/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.didichuxing.doraemonkit/doraemonkit/3.1.5/98f20612b5338939c8740d7156d33e4581e50d3a/doraemonkit-3.1.5-javadoc.jar!/" />
