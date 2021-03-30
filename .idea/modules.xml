@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidArchitecture.iml" filepath="$PROJECT_DIR$/AndroidArchitecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidArchitecture.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidArchitecture.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/AndroidArchitecture.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/AndroidArchitecture.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/perf-plugin/AndroidArchitecture.perf-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/perf-plugin/AndroidArchitecture.perf-plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/performance/AndroidArchitecture.performance.iml" filepath="$PROJECT_DIR$/.idea/modules/performance/AndroidArchitecture.performance.iml" />
     </modules>
   </component>
