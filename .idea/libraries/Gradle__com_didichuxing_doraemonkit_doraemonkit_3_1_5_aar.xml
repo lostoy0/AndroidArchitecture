@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.didichuxing.doraemonkit:doraemonkit:3.1.5@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/127c01ed465fe3fdc506a2ac093aab74/doraemonkit-3.1.5/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/127c01ed465fe3fdc506a2ac093aab74/doraemonkit-3.1.5/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/127c01ed465fe3fdc506a2ac093aab74/doraemonkit-3.1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c02120bb9a3fd9d22b9fdd7b8a6cbb3a/doraemonkit-3.1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c02120bb9a3fd9d22b9fdd7b8a6cbb3a/doraemonkit-3.1.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c02120bb9a3fd9d22b9fdd7b8a6cbb3a/doraemonkit-3.1.5/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.didichuxing.doraemonkit/doraemonkit/3.1.5/98f20612b5338939c8740d7156d33e4581e50d3a/doraemonkit-3.1.5-javadoc.jar!/" />

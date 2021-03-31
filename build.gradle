@@ -4,7 +4,9 @@ buildscript {
     apply from: rootProject.file('gradle/ext.gradle')
 
     repositories {
-        mavenLocal()
+        maven {
+            url uri('repo')
+        }
         google()
         jcenter()
         mavenCentral()
@@ -28,7 +30,9 @@ buildscript {
 
 allprojects {
     repositories {
-        mavenLocal()
+        maven {
+            url uri('repo')
+        }
         google()
         jcenter()
         mavenCentral()

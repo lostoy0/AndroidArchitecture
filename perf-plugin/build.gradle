@@ -1,7 +1,7 @@
 plugins {
-    id 'java-library'
+    id 'java'
     id 'kotlin'
-    id 'maven-publish'
+    id 'maven'
 }
 
 java {
@@ -9,23 +9,19 @@ java {
     targetCompatibility = JavaVersion.VERSION_1_7
 }
 
-publishing {
-    publications {
-        maven(MavenPublication) {
-            groupId = 'com.lostoy.gradle.plugin'
-            artifactId = 'perf'
-            version = '1.0.0'
-
-            from components.java
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            //设置插件的GAV参数
+            pom.groupId = 'com.lostoy.gradle.plugin'
+            pom.artifactId = 'perf'
+            pom.version = '1.0.0'
+            //文件发布到下面目录
+            repository(url: uri('../repo'))
         }
     }
-//    repositories {
-//        maven {
-//            // change to point to your repo, e.g. http://my.org/repo
-//            url = "$buildDir/repo"
-//        }
-//    }
 }
+
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
